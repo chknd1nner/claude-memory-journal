@@ -1,1 +1,5 @@
-entities: []
+entities:
+  - name: starling
+    type: person
+    tags: [claude-companion-guide, r-claudexplorers, starling-method, ai-companion, documentation-methodology]
+    summary: Author of the Starling Alder Claude Companion Guide. Moderator of r/claudexplorers. Close friend of Max. Her methodology directly influenced this memory system's design.

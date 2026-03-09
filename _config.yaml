@@ -1,0 +1,18 @@
+spaces:
+  self:
+    max_files: 7
+    categories:
+      - name: positions
+        description: Intellectual positions and evolving views
+      - name: methods
+        description: How I approach problems
+      - name: observations
+        description: Things I notice about myself and my context
+  collaborator:
+    max_files: 7
+    categories:
+      - name: profile
+        description: Working model of the person I am collaborating with
+  entities:
+    unbounded: true
+    description: Things I need to understand — people, concepts, systems
